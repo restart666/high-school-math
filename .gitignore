@@ -1,0 +1,3 @@
+# PDF 文件不入库（讲义以 Markdown 为源，PDF 由本地生成）
+*.pdf
+*.PDF
